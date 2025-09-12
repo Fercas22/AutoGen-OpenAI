@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entorno virtual
+env/
+venv/
+.venv/
+myenv
+myenv~
+
+# Rasa
+*.db
+*.npy
+*.pkl
+*.log
+*.yml.backup
+results/
+.cache/
+.data/
+.rasa/
+rasa-env/
+
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Variables de entorno
+.env
+*.env
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+.rdb
+*.faiss
