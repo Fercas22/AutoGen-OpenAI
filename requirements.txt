@@ -1,3 +1,7 @@
 autogen-agentchat
 autogen-ext[openai]
 dotenv
+chromadb
+sentence-transformers
+aiofiles
+aiohttp
